@@ -44,7 +44,7 @@ border-size = 0
 border-color = #00000000
 
 padding-left = 0
-padding-right = 1
+padding-right = 0
 
 font-0 = System San Francisco Display Regular:pixelsize=12;3
 font-4 = unifont:fontformat=truetype:size=8:antialias=true;1
@@ -60,7 +60,7 @@ modules-right = arrow1 LeftStripe arrow1 cpu arrow2 memory arrow3 battery
 ;modules-right = temperature date powermenu
 
 ;tray-position = right
-tray-padding = 2
+;tray-padding = 2
 ;tray-background = #0063ff
 
 cursor-click = pointer
